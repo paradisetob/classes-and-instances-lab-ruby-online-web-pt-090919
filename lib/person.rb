@@ -4,3 +4,5 @@ class Person(name)
   alan_kay = Person.new
 
 end
+name::Person
+end 

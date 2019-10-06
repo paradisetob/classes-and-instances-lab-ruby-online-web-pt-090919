@@ -1,4 +1,5 @@
 class Dog(name)
+  name=["fido","lassie",""]
 end
 
 :fido = Dog.new

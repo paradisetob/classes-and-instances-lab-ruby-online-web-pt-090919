@@ -1,6 +1,6 @@
 class Person
-  adele_goldberg= Person
+  adele_goldberg= Person.new
 
-  alan_kay = Person
+  alan_kay = Person.new
 
 end
